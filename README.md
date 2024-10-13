@@ -2,6 +2,10 @@
 
 This Python program manages employee details using Object-Oriented Programming (OOP). It allows for efficient management of employee records, including their ID, name, department, and salary.
 
+## Project Timeline
+- **Creation Date**: August 11, 2023
+- **Uploaded to GitHub**: 2024
+
 ## Features
 
 - **Add Employee**: Add new employee records with ID, name, department, and salary.
