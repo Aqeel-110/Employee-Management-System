@@ -60,5 +60,3 @@ This Python program manages employee details using Object-Oriented Programming (
 
    Result: Employee salary is below the threshold.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
